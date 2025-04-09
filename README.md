@@ -1,6 +1,7 @@
 # Data-Visualization
  Streamlit
-
+  (Matplotlib/Plotly کے ساتھ)
+👉 سیکھا گیا: st.line_chart(), st.bar_chart(), st.pyplot()
 Key changes made:
 1. Translated all text to English:
    - "ڈیٹا ویژیولائزیشن" → "Data Visualization"
