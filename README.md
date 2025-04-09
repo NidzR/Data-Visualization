@@ -18,3 +18,5 @@ pandas==2.0.3
 matplotlib==3.7.2
 
 streamlit run app.py
+
+https://nidzr-data-visualization-app-ymflfq.streamlit.app/

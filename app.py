@@ -20,4 +20,4 @@ ax.plot(data['Year'], data['Sales'], marker='o')
 ax.set_xlabel('Year')
 ax.set_ylabel('Sales')
 ax.set_title('Sales Over Years')
-st.pyplot(fig)
+st.pyplot(fig);
